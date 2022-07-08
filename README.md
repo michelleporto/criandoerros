@@ -6,7 +6,7 @@ O objetivo é que a função de aumentar o seu tamanho corresponde ao número en
 
 1. Crie uma função que recebe um array e um número;
 2. Realize as seguintes validações:
-a) Se os parâmetros não foram enviados, lance um erro do tipo [b]enviadoReferenceError[/b]
+[br]a) Se os parâmetros não foram enviados, lance um erro do tipo enviadoReferenceError[/br]
 b) Se o array não for do tipo 'object', lance um erro do tipoTypeError
 c)Se o número não for do tipo 'number', lance um erro do tipoTypeError
 d)Se o tamanho do array for diferente do número enviado como parâmetro, lance um erro do tipoRangeError
